@@ -1,3 +1,12 @@
+This project purpose is to improve a current recommendation system that can be found at [(https://github.com/pm390/recsys2022/tree/main)](url) 
+
+In order to run our Follow those steps:	
+Clone the repo: https://github.com/pm390/recsys2022.git
+Upload the whole directory to your Google Drive into My Drive. (‘recsys2022-main’ folder should be in your Drive)
+Run the notebooks uploaded into our moodle submission, in the same order as mentioned in the original repo Readme file.
+Please make sure that you update the file path to your specific drive (should be fine by applying section b).
+In case of NumPy errors try running it locally (There is an Image that allows the code to run smoothly in case it does not resolve).
+
 The code considers a python installation of python 3.7.11 and various packages with versions suggested in requirement files.
 
 To run the code inside the repository we provide a requirements file.
